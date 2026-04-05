@@ -3,7 +3,7 @@
     <channel>
         <title>Nenu Finance Updates</title>
         <item>
-            <title>Version 1.0.2</title>
+            <title>Version 1.0.1</title>
             <description>Mejoras en el rendimiento y corrección de errores.</description>
             <enclosure url="URL_DIRECTA_DEL_APK" 
                        sparkle:version="1.0.1" 
