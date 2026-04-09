@@ -10,7 +10,7 @@
                 - Corrección del error de guardado en Android/iOS.
                 - Mejoras en la interfaz de Categorías.
             </description>
-            <enclosure url="URL_DIRECTA_DE_TU_NUEVO_APK" 
+            <enclosure url="https://github.com/drizzlenenufardzn-debug/Nenu-Finance/releases/download/1.1.0%2B4/Nenu.Finance.apk" 
                        sparkle:version="1.1.0+4" 
                        sparkle:os="android" />
         </item>
